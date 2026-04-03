@@ -1,0 +1,172 @@
+{
+  "messages": [
+    {
+      "session_id": "06c5acdc-7fa5-494e-ae81-b3be3c4d5c0a",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-03-29T06:00:30.761Z"
+    },
+    {
+      "session_id": "06c5acdc-7fa5-494e-ae81-b3be3c4d5c0a",
+      "role": "ai",
+      "content": "Hello! How can I help you today?",
+      "timestamp": "2026-03-29T06:00:30.763Z"
+    },
+    {
+      "session_id": "a194df71-e1cd-4358-9166-a110d39e9c03",
+      "role": "user",
+      "content": "t\\",
+      "timestamp": "2026-03-29T06:20:54.560Z"
+    },
+    {
+      "session_id": "a194df71-e1cd-4358-9166-a110d39e9c03",
+      "role": "ai",
+      "content": "I'm sorry, your question seems incomplete. Could you please rephrase it?",
+      "timestamp": "2026-03-29T06:20:54.562Z"
+    },
+    {
+      "session_id": "a194df71-e1cd-4358-9166-a110d39e9c03",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-03-29T06:21:02.842Z"
+    },
+    {
+      "session_id": "a194df71-e1cd-4358-9166-a110d39e9c03",
+      "role": "ai",
+      "content": "Hello! How can I help you today?",
+      "timestamp": "2026-03-29T06:21:02.844Z"
+    },
+    {
+      "session_id": "9ebfe0c2-7475-499d-9af5-a41e1be5ea31",
+      "role": "user",
+      "content": "hloo",
+      "timestamp": "2026-03-29T16:57:08.569Z"
+    },
+    {
+      "session_id": "9ebfe0c2-7475-499d-9af5-a41e1be5ea31",
+      "role": "ai",
+      "content": "Hello! How can I assist you today regarding your prescription?",
+      "timestamp": "2026-03-29T16:57:08.573Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-04-01T19:08:41.058Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "ai",
+      "content": "Hello! How can I help you today regarding your prescriptions?",
+      "timestamp": "2026-04-01T19:08:41.060Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "user",
+      "content": "Please Explain me more Detailed About This Medicine.",
+      "timestamp": "2026-04-01T20:08:18.714Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "ai",
+      "content": "Amoxicillin 500mg Cap:\n*   **Specific Instructions:** Take 1 capsule in the morning, 1 capsule in the afternoon, and 1 capsule at night for 7 days.\n*   **General Medical Knowledge:** Amoxicillin is an antibiotic commonly used to treat a wide range of bacterial infections, such as ear infections, strep throat, pneumonia, and urinary tract infections.",
+      "timestamp": "2026-04-01T20:08:18.717Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "user",
+      "content": "So What Food Should I Have to intake?",
+      "timestamp": "2026-04-01T20:09:30.810Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "ai",
+      "content": "The provided prescription and chat history do not contain any information about specific food intake or dietary recommendations.",
+      "timestamp": "2026-04-01T20:09:30.813Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "user",
+      "content": "to kyaa ye dawa me kewal Subhe or Syam ko le sakta hu bass?",
+      "timestamp": "2026-04-01T20:14:10.344Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "ai",
+      "content": "No, according to the prescription, you should take Amoxicillin 500mg Cap in the morning, afternoon, and night for 7 days. It is not recommended to only take it in the morning and evening.",
+      "timestamp": "2026-04-01T20:14:10.347Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "user",
+      "content": "Okay Thanks",
+      "timestamp": "2026-04-01T20:14:47.421Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "ai",
+      "content": "You're welcome! Let me know if you have any other questions.",
+      "timestamp": "2026-04-01T20:14:47.424Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "user",
+      "content": "हेलो",
+      "timestamp": "2026-04-01T20:33:59.907Z"
+    },
+    {
+      "session_id": "4a9f162b-16ab-47aa-8cfa-38334be8beb5",
+      "role": "ai",
+      "content": "Hello! How can I help you today?",
+      "timestamp": "2026-04-01T20:33:59.910Z"
+    },
+    {
+      "session_id": "0082e358-7527-4e25-8134-733bd8232002",
+      "role": "user",
+      "content": "How many medicines Should I have to take At Morning?",
+      "timestamp": "2026-04-03T01:45:31.284Z"
+    },
+    {
+      "session_id": "0082e358-7527-4e25-8134-733bd8232002",
+      "role": "ai",
+      "content": "Based on the provided prescription, you should not take any of the listed medicines in the morning. All medicines indicate \"No\" for morning administration.",
+      "timestamp": "2026-04-03T01:45:31.287Z"
+    },
+    {
+      "session_id": "0082e358-7527-4e25-8134-733bd8232002",
+      "role": "user",
+      "content": "बाइफेटामाइन kyaa Kaam aati hai?",
+      "timestamp": "2026-04-03T01:46:17.648Z"
+    },
+    {
+      "session_id": "0082e358-7527-4e25-8134-733bd8232002",
+      "role": "ai",
+      "content": "Based on the provided prescription, there are no specific instructions for Biphetamine regarding dosage, timing (Morning: No, Afternoon: No, Night: No), frequency, or duration. The prescription notes \"100 spansules (20 mg each)\".\n\nGenerally, Biphetamine is a combination of amphetamine and dextroamphetamine, which are central nervous system stimulants. Historically, it was used to treat conditions such as attention-deficit/hyperactivity disorder (ADHD) and exogenous obesity.",
+      "timestamp": "2026-04-03T01:46:17.650Z"
+    },
+    {
+      "session_id": "2019e956-aacc-4109-95a0-5616f9c38d2d",
+      "role": "user",
+      "content": "Mujhe Konse tablet Dard Se aaram de sakti hai?",
+      "timestamp": "2026-04-03T01:58:56.628Z"
+    },
+    {
+      "session_id": "2019e956-aacc-4109-95a0-5616f9c38d2d",
+      "role": "ai",
+      "content": "Based on the provided prescription, there are no active instructions for any tablets to be taken for pain relief. Please consult a doctor for appropriate pain management.",
+      "timestamp": "2026-04-03T01:58:56.630Z"
+    },
+    {
+      "session_id": "2019e956-aacc-4109-95a0-5616f9c38d2d",
+      "role": "user",
+      "content": "बाइफेटामाइन dawa ke bare me batao",
+      "timestamp": "2026-04-03T01:59:26.493Z"
+    },
+    {
+      "session_id": "2019e956-aacc-4109-95a0-5616f9c38d2d",
+      "role": "ai",
+      "content": "Based on the provided prescription, there are no specific instructions for taking Biphetamine regarding dosage, timing, frequency, or duration.\n\nGenerally, Biphetamine is a combination of amphetamine and dextroamphetamine, which are central nervous system stimulants. It was historically used for conditions such as obesity and attention deficit hyperactivity disorder (ADHD), but its use has largely been discontinued due to safety concerns and the availability of more modern alternatives. It is a controlled substance with a high potential for abuse.",
+      "timestamp": "2026-04-03T01:59:26.496Z"
+    }
+  ]
+}
