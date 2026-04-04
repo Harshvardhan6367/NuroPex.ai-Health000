@@ -13,7 +13,7 @@ RUN npm install
 RUN npm run build
 
 # Install server dependencies
-RUN npm install --prefix server --production
+RUN npm install --prefix server --omit=dev --legacy-peer-deps
 
 # Expose the standard Cloud Run port
 ENV PORT=8080
