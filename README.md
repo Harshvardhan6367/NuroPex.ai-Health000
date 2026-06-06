@@ -1,4 +1,4 @@
-# 🧠 Hindsight-Powered Modules in VedaX-AI
+# 🧠 Hindsight-Powered Modules in NuroPex.ai
 
 ## 🤖 Smart AI Triage + Hindsight Memory
 
