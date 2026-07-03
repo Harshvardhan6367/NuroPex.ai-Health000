@@ -1,6 +1,6 @@
-# 🧠 Hindsight-Powered Modules in NuroPex.ai
+# 🧠 VedaX-AI
 
-## 🤖 Smart AI Triage + Hindsight Memory
+## 🤖 Smart AI Triage 
 
 ### Current Functionality
 
@@ -8,7 +8,7 @@
 * Risk evaluation
 * Specialist recommendation
 
-### Hindsight Enhancement
+ Enhancement
 
 The system remembers:
 
